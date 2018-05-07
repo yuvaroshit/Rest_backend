@@ -2,7 +2,7 @@
 var express = require('express');
 var router = express.Router();
 
-// Models
+// Users
 var User = require('../models/user');
 
 // Routes
